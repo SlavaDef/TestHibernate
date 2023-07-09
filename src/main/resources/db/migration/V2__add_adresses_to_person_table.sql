@@ -1,0 +1,2 @@
+ALTER TABLE person
+ADD COLUMN addresses VARCHAR(2000);

@@ -1,3 +1,0 @@
-2023-07-07 13:03:25 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSON" not found (this database is empty); SQL statement:
-insert into person (id) values (default) [42104-212]
